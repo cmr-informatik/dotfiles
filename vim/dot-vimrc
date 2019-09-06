@@ -1,0 +1,6 @@
+colorscheme monotonic-light
+
+set number
+set nowrap
+set noswapfile
+set nobackup
