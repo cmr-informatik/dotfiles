@@ -48,6 +48,10 @@ bindsym $mod+Shift+q kill
 
 # start firefox
 bindsym $mod+Super_L exec firefox
+# start zathura
+bindsym $mod+z exec zathura
+# start emacs
+bindsym $mod+Tab exec emacs
 
 # start dmenu (a program launcher)
 bindsym $mod+d exec dmenu_run
